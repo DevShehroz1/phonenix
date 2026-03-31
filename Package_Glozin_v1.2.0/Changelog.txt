@@ -1,3 +1,0 @@
--Version 1.0.0 : Glozin 1.0.0 is initial released on 2024, June, 25th, Glozin is a versatile and dynamic theme designed to meet the needs of merchants across various industries. Built with flexibility, quality, performance, and customer experience in mind, Glozin adapts effortlessly to any website, making it the perfect choice for diverse industries whether your business is in fashion, furniture, food, or pet supplies.
-
--Version 1.1.0 : Updated code and Add new homepage EchoZone
