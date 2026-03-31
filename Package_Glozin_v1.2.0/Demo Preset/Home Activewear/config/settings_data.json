@@ -1,0 +1,388 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "current": {
+    "purchase_code": "",
+    "favicon": "shopify:\/\/shop_images\/Favicon.png",
+    "logo": "shopify:\/\/shop_images\/logo.svg",
+    "desktop_logo_width": 82,
+    "fluid_container_width": 1410,
+    "spacing_desktop": 80,
+    "space_mobile": 50,
+    "body_font_size": 15,
+    "heading_text_transform": "unset",
+    "heading_letter_spacing": "negative",
+    "menu_font": "heading_font",
+    "sale_badge_type": "percent",
+    "sale_badge_addons": "scrolling",
+    "scrolling_background": "#111111",
+    "show_new": false,
+    "new_background": "#3456e6",
+    "pre_order_background": "#6a33d8",
+    "sold_out_background": "#666666",
+    "custom_badge_background": "#14854e",
+    "product_alignment": "start",
+    "product_size": 15,
+    "price_size": 15,
+    "show_vendor": false,
+    "show_secondary_image": true,
+    "product_image_ratio": "custom",
+    "product_custom_ratio": "338:450",
+    "show_action_on_mobile": true,
+    "swatch_item_type": "variant_images",
+    "search_type": "popup",
+    "enable_search_suggestion": true,
+    "popular_key_word": "Crop top, Sleeve, Crossover",
+    "collection_suggestion": "sport-bras",
+    "show_search_price": true,
+    "show_message_when_remove": true,
+    "free_shipping_minimum": "200",
+    "choose_gift_wrap_product": "digital-gift-card",
+    "product_recommendations_heading": "You may also like...",
+    "minicart_type": "show_beside",
+    "show_on_cart_page": true,
+    "select_product_recommendations": [
+      "elevate-3-4-sleeve-crop-top",
+      "everyday-cap-sleeve-t-shirt",
+      "everyday-halter-neck-ribbon-tank",
+      "vital-seamless-high-neck-top"
+    ],
+    "facebook": "#",
+    "instagram": "#",
+    "twitter": "",
+    "youtube": "#",
+    "tiktok": "#",
+    "pinterest": "#",
+    "vimeo": "",
+    "linkedin": "",
+    "whatsapp": "",
+    "scroll_animation": "fade_in",
+    "hover_effect": "hover_zoom",
+    "store_phone": "+1 (973) 435-3638",
+    "store_email": "info@fashionwomen.com",
+    "store_page": "our-store",
+    "enable_cookies": true,
+    "heading_cookies": "",
+    "content_cookies": "<p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffics. By clicking \"<strong>Allow Cookies<\/strong>\" you consent to our use of cookie.<\/p>",
+    "label_allow": "Allow Cookies",
+    "label_refuse": "",
+    "page_terms_conditions": "term-and-conditions",
+    "rate_color": "#ea0606",
+    "sections": {
+      "custom-colors": {
+        "type": "custom-colors",
+        "blocks": {
+          "color_aQceXa": {
+            "type": "color",
+            "settings": {
+              "heading": "aqua",
+              "color_code": "#7888a6"
+            }
+          },
+          "color_34jy38": {
+            "type": "color",
+            "settings": {
+              "heading": "orange",
+              "color_code": "#e1895b"
+            }
+          },
+          "color_RUW7JX": {
+            "type": "color",
+            "settings": {
+              "heading": "Light Blue",
+              "color_code": "#5c9caf"
+            }
+          },
+          "color_gzyfRW": {
+            "type": "color",
+            "settings": {
+              "heading": "Blue",
+              "color_code": "#0a7596"
+            }
+          },
+          "color_wVqAtK": {
+            "type": "color",
+            "settings": {
+              "heading": "Maroon",
+              "color_code": "#6e2630"
+            }
+          },
+          "color_yBgPCP": {
+            "type": "color",
+            "settings": {
+              "heading": "Pink",
+              "color_code": "#f46794"
+            }
+          },
+          "color_6nhcHN": {
+            "type": "color",
+            "settings": {
+              "heading": "purple",
+              "color_code": "#a591a6"
+            }
+          },
+          "color_brbaqd": {
+            "type": "color",
+            "settings": {
+              "heading": "brown",
+              "color_code": "#3e2a31"
+            }
+          },
+          "color_KRV4Pc": {
+            "type": "color",
+            "settings": {
+              "heading": "green",
+              "color_code": "#7a7b66"
+            }
+          },
+          "color_D8UxRR": {
+            "type": "color",
+            "settings": {
+              "heading": "violet",
+              "color_code": "#978498"
+            }
+          },
+          "color_W3fYhr": {
+            "type": "color",
+            "settings": {
+              "heading": "Dark blue",
+              "color_code": "#1c2736"
+            }
+          },
+          "color_gRUJBL": {
+            "type": "color",
+            "settings": {
+              "heading": "Charcoal",
+              "color_code": "#5b85ad"
+            }
+          }
+        },
+        "block_order": [
+          "color_aQceXa",
+          "color_34jy38",
+          "color_RUW7JX",
+          "color_gzyfRW",
+          "color_wVqAtK",
+          "color_yBgPCP",
+          "color_6nhcHN",
+          "color_brbaqd",
+          "color_KRV4Pc",
+          "color_D8UxRR",
+          "color_W3fYhr",
+          "color_gRUJBL"
+        ],
+        "settings": {
+        }
+      },
+      "product-quickview": {
+        "type": "product-quickview",
+        "blocks": {
+          "title_txJBrx": {
+            "type": "title",
+            "settings": {
+            }
+          },
+          "rate_QwRHyp": {
+            "type": "rate",
+            "settings": {
+            }
+          },
+          "price_NNg9B8": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "description_pKXRJa": {
+            "type": "description",
+            "settings": {
+            }
+          },
+          "variant_picker_MQYkTJ": {
+            "type": "variant_picker",
+            "settings": {
+            }
+          },
+          "buy_buttons_pDYNX9": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true
+            }
+          }
+        },
+        "block_order": [
+          "title_txJBrx",
+          "rate_QwRHyp",
+          "price_NNg9B8",
+          "description_pKXRJa",
+          "variant_picker_MQYkTJ",
+          "buy_buttons_pDYNX9"
+        ],
+        "settings": {
+          "user_variants_image_group": false
+        }
+      },
+      "mobile-navigation-bar": {
+        "type": "mobile-navigation-bar",
+        "settings": {
+          "eb_mobile_navbar": false,
+          "show_homepage": true,
+          "show_shop": true,
+          "show_account": true,
+          "show_cart": true,
+          "show_wishlist": true
+        }
+      },
+      "fake-order": {
+        "type": "fake-order",
+        "settings": {
+          "show_fake_order": false,
+          "disable_mobile": false,
+          "fake_product": [
+
+          ],
+          "fake_user": "Jonson (California) | Tony (Texas) | Bruno (New York) | Eren (Ohio) | Lauren (Washington) | Flortino (California) | Blue (Ohio)",
+          "text_verify": "Verify",
+          "delay_time": "5000",
+          "display_time": "6000"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
+    "color_schemes": {
+      "default": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "primary_color": "#d0473e",
+          "text_color": "#444444",
+          "heading_color": "#111111",
+          "border_color": "#ebebeb",
+          "btn_primary_color": "#ffffff",
+          "btn_primary_background": "#111111",
+          "btn_primary_hover_color": "#ffffff",
+          "btn_primary_hover_background": "#000000",
+          "btn_outline_color": "#111111",
+          "btn_outline_border_color": "#111111",
+          "button_link_color": "#111111",
+          "button_link_hover_color": "#111111"
+        }
+      },
+      "scheme-4faf0e4d-27f4-4d02-bc51-617383bab1a9": {
+        "settings": {
+          "background": "#111111",
+          "background_gradient": "",
+          "primary_color": "#ff0000",
+          "text_color": "#ffffff",
+          "heading_color": "#ffffff",
+          "border_color": "#ebebeb",
+          "btn_primary_color": "#ffffff",
+          "btn_primary_background": "#111111",
+          "btn_primary_hover_color": "#111111",
+          "btn_primary_hover_background": "#ffffff",
+          "btn_outline_color": "#111111",
+          "btn_outline_border_color": "#111111",
+          "button_link_color": "#111111",
+          "button_link_hover_color": "#111111"
+        }
+      },
+      "scheme-bb1431b0-be4a-4b03-a450-f572c07e3904": {
+        "settings": {
+          "background": "#253230",
+          "background_gradient": "",
+          "primary_color": "#d0473e",
+          "text_color": "#f3fc81",
+          "heading_color": "#f3fc81",
+          "border_color": "#ebebeb",
+          "btn_primary_color": "#ffffff",
+          "btn_primary_background": "#111111",
+          "btn_primary_hover_color": "#ffffff",
+          "btn_primary_hover_background": "#111111",
+          "btn_outline_color": "#111111",
+          "btn_outline_border_color": "#111111",
+          "button_link_color": "#111111",
+          "button_link_hover_color": "#111111"
+        }
+      },
+      "scheme-3d10de96-a479-49bd-819c-e044746b4f3e": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "primary_color": "#ffffff",
+          "text_color": "#ffffff",
+          "heading_color": "#ffffff",
+          "border_color": "#ebebeb",
+          "btn_primary_color": "#111111",
+          "btn_primary_background": "#ffffff",
+          "btn_primary_hover_color": "#ffffff",
+          "btn_primary_hover_background": "#111111",
+          "btn_outline_color": "#111111",
+          "btn_outline_border_color": "#111111",
+          "button_link_color": "#111111",
+          "button_link_hover_color": "#111111"
+        }
+      },
+      "scheme-841ee50b-779c-4668-9ae3-8058de021b59": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "primary_color": "#d0473e",
+          "text_color": "#111111",
+          "heading_color": "#111111",
+          "border_color": "#ebebeb",
+          "btn_primary_color": "#ffffff",
+          "btn_primary_background": "#111111",
+          "btn_primary_hover_color": "#ffffff",
+          "btn_primary_hover_background": "#111111",
+          "btn_outline_color": "#111111",
+          "btn_outline_border_color": "#111111",
+          "button_link_color": "#111111",
+          "button_link_hover_color": "#111111"
+        }
+      },
+      "scheme-ad8dca57-df21-40d4-bd74-a45c57114257": {
+        "settings": {
+          "background": "#f5f5f5",
+          "background_gradient": "",
+          "primary_color": "#d0473e",
+          "text_color": "#444444",
+          "heading_color": "#111111",
+          "border_color": "#ffffff",
+          "btn_primary_color": "#ffffff",
+          "btn_primary_background": "#111111",
+          "btn_primary_hover_color": "#ffffff",
+          "btn_primary_hover_background": "#111111",
+          "btn_outline_color": "#111111",
+          "btn_outline_border_color": "#111111",
+          "button_link_color": "#111111",
+          "button_link_hover_color": "#111111"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
+  }
+}

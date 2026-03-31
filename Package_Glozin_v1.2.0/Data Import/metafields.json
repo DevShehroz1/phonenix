@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Short Description",
+    "namespace": "custom",
+    "key": "short_description",
+    "type": "multi_line_text_field",
+    "ownerType": "PRODUCT"
+  },
+  {
+    "name": "Countdown Timer",
+    "namespace": "custom",
+    "key": "countdown_timer",
+    "type": "date_time",
+    "ownerType": "PRODUCT"
+  },
+  {
+    "name": "Product Bought Together",
+    "namespace": "custom",
+    "key": "bought_together",
+    "type": "list.product_reference",
+    "ownerType": "PRODUCT"
+  },
+  {
+    "name": "Product grouped",
+    "namespace": "custom",
+    "key": "product_grouped",
+    "type": "list.product_reference",
+    "ownerType": "PRODUCT"
+  },
+  {
+    "name": "Sub Collections",
+    "namespace": "custom",
+    "key": "sub_collections",
+    "type": "list.collection_reference",
+    "ownerType": "COLLECTION"
+  },
+  {
+    "name": "Custom product badge",
+    "namespace": "custom",
+    "key": "custom_product_badge",
+    "type": "single_line_text_field",
+    "ownerType": "PRODUCT"
+  },
+  {
+    "name": "More colors",
+    "namespace": "custom",
+    "key": "more_colors",
+    "type": "list.product_reference",
+    "ownerType": "PRODUCT"
+  }
+]

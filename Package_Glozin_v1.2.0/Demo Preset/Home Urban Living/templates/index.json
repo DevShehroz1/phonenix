@@ -1,0 +1,635 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_8KKtNU": {
+      "type": "slideshow",
+      "blocks": {
+        "slider_item_YipJd4": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img_12.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/morden_furniture_demo_mb1_f04ec2fe-ad1b-409e-952d-88347ac7e100.jpg",
+            "overlay_opacity": 0,
+            "slider_effect": "effect_fadeinup",
+            "subheading": "TOP COLLECTIONS",
+            "heading": "Sofas Collection",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections\/sofas",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": false,
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_width": "full_width",
+            "content_max_width": 100,
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "show_content_background": false,
+            "content_background": "#ffffff",
+            "content_box_opacity": 100,
+            "content_alignment_mobile": "left"
+          }
+        },
+        "slider_item_iAiXpe": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img_13.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/morden_furniture_demo_mb3_0a96fae0-8519-4dc3-b173-b50706325792.jpg",
+            "overlay_opacity": 0,
+            "slider_effect": "effect_fadeindown",
+            "subheading": "BY SILO—COPENHAGEN",
+            "heading": "Interior Design",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": false,
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_width": "full_width",
+            "content_max_width": 100,
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "show_content_background": false,
+            "content_background": "#ffffff",
+            "content_box_opacity": 100,
+            "content_alignment_mobile": "left"
+          }
+        },
+        "slider_item_jiLA39": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img_14.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/morden_furniture_demo_mb2_2a10dba9-f4d7-4ee8-b5cd-94177c2bf9ab.jpg",
+            "overlay_opacity": 0,
+            "slider_effect": "effect_zoomout",
+            "subheading": "BY SILO—COPENHAGEN",
+            "heading": "High-Top Design",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": false,
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_width": "full_width",
+            "content_max_width": 100,
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "show_content_background": false,
+            "content_background": "#ffffff",
+            "content_box_opacity": 100,
+            "content_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "slider_item_YipJd4",
+        "slider_item_iAiXpe",
+        "slider_item_jiLA39"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "slide_height": "full_screen",
+        "desktop_height": 650,
+        "mobile_height": 300,
+        "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+        "subheading_font_size": 13,
+        "subheading_font_weight": "subheading_weight",
+        "subheading_spacing_bottom": 0,
+        "heading_font_size": 60,
+        "heading_font_weight": "heading_weight",
+        "heading_uppercase": false,
+        "heading_spacing_bottom": 12,
+        "des_font_size": 19,
+        "des_font_weight": "heading_weight",
+        "des_spacing_bottom": 60,
+        "show_arrow": false,
+        "carousel_pagination": "show_dots",
+        "pagination_position": "center",
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "content_below_image": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "rich_text_39GtwJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DzNfBc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Collections",
+            "font_size": 36,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 10
+          }
+        },
+        "description_GEV4WE": {
+          "type": "description",
+          "settings": {
+            "description": "<p>Express your style with our standout collection—fashion meets sophistication.<\/p>",
+            "font_size": 15,
+            "font_weight": "body_weight",
+            "spacing_bottom": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_DzNfBc",
+        "description_GEV4WE"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "content_max_width": 100,
+        "enable_expand_content": false,
+        "expand_content_button": "See all Information",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "collection_list_VmEYkJ": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_kUA3MH": {
+          "type": "collection",
+          "settings": {
+            "collection": "sofas",
+            "collection_image": "shopify:\/\/shop_images\/liv_clt1.jpg",
+            "collection_title": "Shop Sofa"
+          }
+        },
+        "collection_ctTBpd": {
+          "type": "collection",
+          "settings": {
+            "collection": "lighting",
+            "collection_image": "shopify:\/\/shop_images\/liv_clt2.jpg",
+            "collection_title": "Shop Lighting"
+          }
+        },
+        "collection_fyfMEN": {
+          "type": "collection",
+          "settings": {
+            "collection": "bedroom",
+            "collection_image": "shopify:\/\/shop_images\/liv_clt3.jpg",
+            "collection_title": "Shop Bedroom"
+          }
+        },
+        "collection_qdMHYe": {
+          "type": "collection",
+          "settings": {
+            "collection": "outdoor",
+            "collection_image": "shopify:\/\/shop_images\/liv_clt4.jpg",
+            "collection_title": "Dining Tables"
+          }
+        },
+        "collection_tfWP3E": {
+          "type": "collection",
+          "settings": {
+            "collection": "bathroom",
+            "collection_image": "shopify:\/\/shop_images\/liv_clt5.jpg",
+            "collection_title": "Shop Bathroom"
+          }
+        }
+      },
+      "block_order": [
+        "collection_kUA3MH",
+        "collection_ctTBpd",
+        "collection_fyfMEN",
+        "collection_qdMHYe",
+        "collection_tfWP3E"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+        "heading": "",
+        "description": "",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "display_mode": "carousel",
+        "image_ratio": "adapt",
+        "custom_ratio": "",
+        "items_per_row": 4,
+        "column_gap": 20,
+        "collection_information_position": "overlay_image",
+        "design": "morden",
+        "text_alignment": "center",
+        "show_product_count": true,
+        "font_size": 20,
+        "font_weight": "heading_weight",
+        "information_spacing": 12,
+        "rounded_image": true,
+        "image_custom_width": true,
+        "image_width": 185,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1.5,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_BrKFhr": {
+      "type": "products-carousel",
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Top Sofas Popular",
+        "description": "Unmatched design—superior performance and customer satisfaction in one.",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "collection": "sofas",
+        "items_to_show": 8,
+        "items_per_row": 3,
+        "column_gap": 20,
+        "show_banner": false,
+        "sticky_banner": false,
+        "banner_width": 30,
+        "position": "left",
+        "banner_link": "",
+        "banner_type": "image",
+        "video_url": "",
+        "video_autoplay": true,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "lookbook_image_6bGXTP": {
+      "type": "lookbook-image",
+      "blocks": {
+        "lookbook_item_mqWWPg": {
+          "type": "lookbook_item",
+          "settings": {
+            "lookbook_image": "shopify:\/\/shop_images\/liv_l1.jpg",
+            "product__1": "copenhagen-ii-echasse-vase",
+            "offset_top__1": 61,
+            "offset_left__1": 4,
+            "product__2": "glozin-ii-pendant-lamp-black",
+            "offset_top__2": 30,
+            "offset_left__2": 56,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "lookbook_item_PULBE3": {
+          "type": "lookbook_item",
+          "settings": {
+            "lookbook_image": "shopify:\/\/shop_images\/liv_l2.jpg",
+            "product__1": "glozin-ii-sectional-sofa-in-latex-gray",
+            "offset_top__1": 43,
+            "offset_left__1": 52,
+            "product__2": "wave-sideboard-anthracite",
+            "offset_top__2": 51,
+            "offset_left__2": 61,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "lookbook_item_ePVXyQ": {
+          "type": "lookbook_item",
+          "settings": {
+            "lookbook_image": "shopify:\/\/shop_images\/liv_l3.jpg",
+            "product__1": "form-bar-stool-oak-base",
+            "offset_top__1": 15,
+            "offset_left__1": 42,
+            "product__2": "glozin-ii-sofa-in-latex-gray",
+            "offset_top__2": 55,
+            "offset_left__2": 81,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        }
+      },
+      "block_order": [
+        "lookbook_item_mqWWPg",
+        "lookbook_item_PULBE3",
+        "lookbook_item_ePVXyQ"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "",
+        "heading": "Our Lookbook",
+        "description": "<p>Unmatched design—superior performance and customer satisfaction in one.<\/p>",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "image_ratio": "custom",
+        "custom_ratio": "192:70",
+        "hotspot_style": "plus",
+        "action_when_click_on_hotspot": "open",
+        "items_per_row": 1,
+        "column_gap": 20,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_VmWrhm": {
+      "type": "products-carousel",
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Best Selling",
+        "description": "Unmatched design—superior performance and customer satisfaction in one.",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "collection": "top-sofas-popula",
+        "items_to_show": 8,
+        "items_per_row": 3,
+        "column_gap": 20,
+        "show_banner": false,
+        "sticky_banner": false,
+        "banner_width": 30,
+        "position": "left",
+        "banner_link": "",
+        "banner_type": "image",
+        "video_url": "",
+        "video_autoplay": true,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "multi_content_WtkUpz": {
+      "type": "multi-content",
+      "blocks": {
+        "image_with_text_overlay_8pTjaU": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "50%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/liv_1.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "BY SILO—COPENHAGEN",
+            "heading": "Side Tables Collection",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections\/bedroom",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "center",
+            "content_position": "middle-center",
+            "content_padding_block": 30,
+            "content_padding_inline": 30,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 20,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        },
+        "image_with_text_overlay_jPCtQp": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "50%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/liv_2.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "BY SILO—COPENHAGEN",
+            "heading": "Table Lamp Collection",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections\/lighting",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "center",
+            "content_position": "middle-center",
+            "content_padding_block": 30,
+            "content_padding_inline": 30,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 20,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_overlay_8pTjaU",
+        "image_with_text_overlay_jPCtQp"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 20,
+        "equal_height_adjustment": false,
+        "carousel_on_mobile": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "product_testimonials_ahNcEB": {
+      "type": "product-testimonials",
+      "blocks": {
+        "testimonials_items_bH8EBt": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/img_3.jpg",
+            "author_rating": 5,
+            "author_text": "<p>These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍<\/p>",
+            "select_product": "glozin-ii-carrie-table-lamp",
+            "author_name": "Carie-Gosée H."
+          }
+        },
+        "testimonials_items_8wMygW": {
+          "type": "testimonials_items",
+          "settings": {
+            "local_video": "",
+            "author_rating": 5,
+            "author_text": "<p>These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍<\/p>",
+            "select_product": "glozin-ii-simple-model-chair",
+            "author_name": "Cameron Smith."
+          }
+        },
+        "testimonials_items_diF6QX": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/liv_test2.jpg",
+            "author_rating": 5,
+            "author_text": "<p>These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍<\/p>",
+            "select_product": "glozin-ii-sectional-sofa-in-latex-sand",
+            "author_name": "Susan Gibson."
+          }
+        },
+        "testimonials_items_hejUjJ": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/liv_test3.jpg",
+            "author_rating": 5,
+            "author_text": "<p>These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍<\/p>",
+            "select_product": "glozin-ii-sofa-in-latex-gray",
+            "author_name": "Célodie F."
+          }
+        }
+      },
+      "block_order": [
+        "testimonials_items_bH8EBt",
+        "testimonials_items_8wMygW",
+        "testimonials_items_diF6QX",
+        "testimonials_items_hejUjJ"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Customer Say!",
+        "description": "<p>Customers love our products and we always strive to please them all.<\/p>",
+        "header_alignment": "center",
+        "header_size": "medium",
+        "show_image": true,
+        "show_verified_buyer": true,
+        "img_position": "top",
+        "image_ratio": "custom",
+        "custom_ratio": "457:250",
+        "img_width": 30,
+        "framed": true,
+        "rate_color": "#ff9c05",
+        "items_per_row": 3,
+        "column_gap": 20,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "newsletter_GqjYhn": {
+      "type": "newsletter",
+      "custom_css": [
+        ".sec__newsletter {border-radius: var(--rounded-radius); overflow: hidden;}",
+        ".sec_newsletter_note {width: 83%;}"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "scheme-77382bb2-a7b6-4182-9e09-a6b9ab7aa606",
+        "heading": "Sign Up—Big Save!",
+        "description": "<p>Sign up for 10% off your first purchase and free shipping. Updates information <br\/>on Sales and Offers.<\/p>",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "email_placeholder": "Your email address...",
+        "btn_text": "Sign Up",
+        "note": "Your personal data will be used to support your experience throughout this website, and for other purposes described in our <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\"><strong>Privacy Policy<\/strong><\/a><strong>.<\/strong>",
+        "form_layout": "vertical",
+        "show_content_background": false,
+        "content_background": "#ffffff",
+        "content_box_opacity": 100,
+        "padding_top": 70,
+        "padding_bottom": 70,
+        "reset_spacing": false
+      }
+    }
+  },
+  "order": [
+    "slideshow_8KKtNU",
+    "rich_text_39GtwJ",
+    "collection_list_VmEYkJ",
+    "products_carousel_BrKFhr",
+    "lookbook_image_6bGXTP",
+    "products_carousel_VmWrhm",
+    "multi_content_WtkUpz",
+    "product_testimonials_ahNcEB",
+    "newsletter_GqjYhn"
+  ]
+}

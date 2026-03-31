@@ -1,0 +1,36 @@
+{
+  "name": "t:sections.overlay_group.name",
+  "type": "custom.overlay",
+  "sections": {
+    "mobile_navigation_bar_xYctmj": {
+      "type": "mobile-navigation-bar",
+      "settings": {
+        "eb_mobile_navbar": true,
+        "show_homepage": true,
+        "show_shop": true,
+        "show_account": true,
+        "show_cart": true,
+        "show_wishlist": true
+      }
+    },
+    "before_you_leave_WHmbEE": {
+      "type": "before-you-leave",
+      "settings": {
+        "show_time": 30,
+        "banner": "shopify:\/\/shop_images\/cosmetics.jpg",
+        "sub_heading": "",
+        "content_heading": "Big Save<br> 10% Coupon!",
+        "description": "<p>Enter the code below at checkout to get 10% off your first order.<\/p>",
+        "code": "Topsale10STBL",
+        "color_scheme": "default-color-scheme",
+        "recommended_heading": "You may also like...",
+        "collection": "hair-care",
+        "recommended_button_label": "Continue Shopping"
+      }
+    }
+  },
+  "order": [
+    "mobile_navigation_bar_xYctmj",
+    "before_you_leave_WHmbEE"
+  ]
+}

@@ -1,0 +1,675 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "multi_content_qti8ri": {
+      "type": "multi-content",
+      "blocks": {
+        "image_with_text_overlay_4i7V7P": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-3d10de96-a479-49bd-819c-e044746b4f3e",
+            "content_width": "50%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/wea_1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/activeud_demo_mb1_182638f4-1e3d-4bfe-aff7-1b0746cbeafe.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "WEEK'S HIGHLIGHTS",
+            "heading": "Tennis Collection",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections\/leggings",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "heading_weight",
+            "subheading_spacing_bottom": 5,
+            "heading_font_size": 50,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 20,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        },
+        "image_with_text_overlay_Wwrk88": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-3d10de96-a479-49bd-819c-e044746b4f3e",
+            "content_width": "50%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/wea_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/activeud_demo_mb2_dbc3acc6-d9ca-4fff-8e6f-6e2a81f3ba4b.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "MUST—HAVE TOPS",
+            "heading": "Bra—Lifestyle",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections\/sport-bras",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "heading_weight",
+            "subheading_spacing_bottom": 5,
+            "heading_font_size": 50,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 20,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_overlay_4i7V7P",
+        "image_with_text_overlay_Wwrk88"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.multi-content-js {border-radius: var(--rounded-radius); overflow: hidden; } .rounded {--rounded-radius: 0; }}"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 0,
+        "equal_height_adjustment": false,
+        "carousel_on_mobile": true,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "scrolling_text_U3mttg": {
+      "type": "scrolling-text",
+      "blocks": {
+        "scrolling_text_Bmp7bG": {
+          "type": "scrolling_text",
+          "settings": {
+            "content": "Great-Free returns product within 10 days"
+          }
+        },
+        "scrolling_text_7defWk": {
+          "type": "scrolling_text",
+          "settings": {
+            "content": "Subscribe and get 10% off your first purchase"
+          }
+        }
+      },
+      "block_order": [
+        "scrolling_text_Bmp7bG",
+        "scrolling_text_7defWk"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "scheme-841ee50b-779c-4668-9ae3-8058de021b59",
+        "direction": "left",
+        "icon_between_item": "star",
+        "speed": 13,
+        "space_between_text": 60,
+        "font_size": 15,
+        "font_weight": "subheading_weight",
+        "uppercase": false,
+        "use_heading_font": true,
+        "padding_top": 15,
+        "padding_bottom": 83,
+        "reset_spacing": true
+      }
+    },
+    "rich_text_gKKkne": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XEHLpn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Collections",
+            "font_size": 36,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 10
+          }
+        },
+        "description_k7yhAF": {
+          "type": "description",
+          "settings": {
+            "description": "<p>Express your style with our standout collection—fashion meets sophistication.<\/p>",
+            "font_size": 15,
+            "font_weight": "body_weight",
+            "spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "heading_XEHLpn",
+        "description_k7yhAF"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "content_max_width": 100,
+        "enable_expand_content": false,
+        "expand_content_button": "See all Information",
+        "padding_top": 0,
+        "padding_bottom": 22,
+        "reset_spacing": true
+      }
+    },
+    "collection_list_VmEYkJ": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_r7aTxN": {
+          "type": "collection",
+          "settings": {
+            "collection": "sport-bras",
+            "collection_image": "shopify:\/\/shop_images\/wea_clt1.jpg",
+            "collection_title": ""
+          }
+        },
+        "collection_FUAzK4": {
+          "type": "collection",
+          "settings": {
+            "collection": "loungewear",
+            "collection_image": "shopify:\/\/shop_images\/wea_clt2.jpg",
+            "collection_title": ""
+          }
+        },
+        "collection_kUA3MH": {
+          "type": "collection",
+          "settings": {
+            "collection": "leggings",
+            "collection_image": "shopify:\/\/shop_images\/wea_clt3.jpg",
+            "collection_title": ""
+          }
+        },
+        "collection_ctTBpd": {
+          "type": "collection",
+          "settings": {
+            "collection": "shorts-1",
+            "collection_image": "shopify:\/\/shop_images\/wea_clt4.jpg",
+            "collection_title": "Tennis"
+          }
+        }
+      },
+      "block_order": [
+        "collection_r7aTxN",
+        "collection_FUAzK4",
+        "collection_kUA3MH",
+        "collection_ctTBpd"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "scheme-3d10de96-a479-49bd-819c-e044746b4f3e",
+        "heading": "",
+        "description": "",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "display_mode": "carousel",
+        "image_ratio": "adapt",
+        "custom_ratio": "",
+        "items_per_row": 4,
+        "column_gap": 20,
+        "collection_information_position": "overlay_image",
+        "design": "morden",
+        "text_alignment": "left",
+        "show_product_count": true,
+        "font_size": 22,
+        "font_weight": "heading_weight",
+        "information_spacing": 12,
+        "rounded_image": false,
+        "image_custom_width": false,
+        "image_width": 185,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_AdKeFt": {
+      "type": "products-carousel",
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Today's Popular Picks",
+        "description": "Unmatched design—superior performance and customer satisfaction in one.",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "collection": "sport-bras",
+        "items_to_show": 8,
+        "items_per_row": 4,
+        "column_gap": 20,
+        "show_banner": false,
+        "sticky_banner": false,
+        "banner_width": 30,
+        "position": "left",
+        "banner_link": "",
+        "banner_type": "image",
+        "video_url": "",
+        "video_autoplay": true,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "lookbook_image_LWBbaq": {
+      "type": "lookbook-image",
+      "blocks": {
+        "lookbook_item_RCLMbm": {
+          "type": "lookbook_item",
+          "settings": {
+            "lookbook_image": "shopify:\/\/shop_images\/wea_3.jpg",
+            "product__1": "elevate-3-4-sleeve-crop-top",
+            "offset_top__1": 32,
+            "offset_left__1": 39,
+            "product__2": "high-waisted-crossover-legging",
+            "offset_top__2": 52,
+            "offset_left__2": 71,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "lookbook_item_4zGeXr": {
+          "type": "lookbook_item",
+          "settings": {
+            "lookbook_image": "shopify:\/\/shop_images\/wea_4.jpg",
+            "product__1": "everyday-cap-sleeve-t-shirt",
+            "offset_top__1": 47,
+            "offset_left__1": 41,
+            "product__2": "everyday-halter-neck-ribbon-tank",
+            "offset_top__2": 81,
+            "offset_left__2": 63,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        }
+      },
+      "block_order": [
+        "lookbook_item_RCLMbm",
+        "lookbook_item_4zGeXr"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "left",
+        "image_ratio": "adapt",
+        "custom_ratio": "",
+        "hotspot_style": "plus",
+        "action_when_click_on_hotspot": "open",
+        "items_per_row": 2,
+        "column_gap": 20,
+        "show_arrow": false,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "product_testimonials_KNN6XE": {
+      "type": "product-testimonials",
+      "blocks": {
+        "testimonials_items_FQz4eH": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/wea_test1.jpg",
+            "author_rating": 5,
+            "author_text": "<p>These are sooo pretty and very comfy. Perfect color as well. I love wearing these with a neutral top and Chelsea boots. Wicked cute...😍<\/p>",
+            "select_product": "everyday-cap-sleeve-t-shirt",
+            "author_name": "Carie-Gosée H."
+          }
+        },
+        "testimonials_items_taknUR": {
+          "type": "testimonials_items",
+          "settings": {
+            "local_video": "",
+            "author_rating": 5,
+            "author_text": "<p>A perfect product, it keeps you very warm without over heating. True to size, I couldn't be happier with the purchase... Thank you! 🤗<\/p>",
+            "select_product": "sweat-long-sleeve-crop-top",
+            "author_name": "Cameron Smith."
+          }
+        },
+        "testimonials_items_RV8Jjg": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/wea_test2.jpg",
+            "author_rating": 5,
+            "author_text": "<p>A fantastic purchase! The product provides just the right amount of warmth without causing overheating. Highly recommend! 😊<\/p>",
+            "select_product": "crossover-short-sleeve-crop-top",
+            "author_name": "Algistino Lionel."
+          }
+        }
+      },
+      "block_order": [
+        "testimonials_items_FQz4eH",
+        "testimonials_items_taknUR",
+        "testimonials_items_RV8Jjg"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Customer Say!",
+        "description": "<p>Customers love our products and we always strive to please them all.<\/p>",
+        "header_alignment": "center",
+        "header_size": "medium",
+        "show_image": true,
+        "show_verified_buyer": true,
+        "img_position": "left",
+        "image_ratio": "square",
+        "custom_ratio": "",
+        "img_width": 35,
+        "framed": true,
+        "rate_color": "#ff9c05",
+        "items_per_row": 2,
+        "column_gap": 30,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": true,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "rich_text_EcBgbR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_j3PNaT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Activewear for Everybody!",
+            "font_size": 36,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 15
+          }
+        },
+        "description_P9ehdd": {
+          "type": "description",
+          "settings": {
+            "description": "<p>Discover a collection of timeless wardrobe essentials, seamlessly transitioning from work to weekend. Inspired by travel, our America-designed pieces prioritize sustainability with natural fibers and mindful practices. Explore a range of <span style=\"text-decoration:underline\"><strong>tops<\/strong><\/span>, <span style=\"text-decoration:underline\"><strong>bottoms<\/strong><\/span>, <span style=\"text-decoration:underline\"><strong>sweaters<\/strong><\/span>, and accessories in versatile styles, featuring high-quality materials like cotton, linen, tencel, and wool. <\/p><p>Each piece is crafted with meticulous attention to detail, ensuring a perfect blend of comfort and elegance. Our designs emphasize clean lines and sophisticated silhouettes, making them suitable for any occasion. Whether you’re dressing up for a night out or keeping it casual, our collection offers endless styling possibilities. Embrace the essence of effortless chic with our thoughtfully designed wardrobe staples, and experience the harmony of style, quality, and sustainability. Join us in redefining modern fashion with a conscience.<\/p>",
+            "font_size": 15,
+            "font_weight": "body_weight",
+            "spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "heading_j3PNaT",
+        "description_P9ehdd"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "content_max_width": 77,
+        "enable_expand_content": true,
+        "expand_content_button": "See all Information",
+        "content_max_height": 130,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "instagram_shop_nrVWcV": {
+      "type": "instagram-shop",
+      "blocks": {
+        "instagram_manual_upload_WnPgR7": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wea_i1.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MMqYXPddD\/?next=%2F&img_index=6",
+            "product__1": "elevate-3-4-sleeve-crop-top",
+            "offset_top__1": 76,
+            "offset_left__1": 41,
+            "product__2": "crossover-short-sleeve-crop-top",
+            "offset_top__2": 37,
+            "offset_left__2": 30,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_HNfRyy": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wea_i2.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MMqYXPddD\/?next=%2F&img_index=5",
+            "product__1": "sweat-long-sleeve-crop-top",
+            "offset_top__1": 12,
+            "offset_left__1": 32,
+            "product__2": "everyday-cap-sleeve-t-shirt",
+            "offset_top__2": 63,
+            "offset_left__2": 80,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_XHACUJ": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wea_i3.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MMqYXPddD\/?next=%2F&img_index=4",
+            "product__1": "everyday-halter-neck-ribbon-tank",
+            "offset_top__1": 50,
+            "offset_left__1": 71,
+            "product__2": "high-waisted-crossover-legging",
+            "offset_top__2": 85,
+            "offset_left__2": 43,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_iHBcAC": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wea_i4.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MMqYXPddD\/?next=%2F&img_index=3",
+            "product__1": "high-waisted-crossover-legging",
+            "offset_top__1": 82,
+            "offset_left__1": 48,
+            "product__2": "crossover-short-sleeve-crop-top",
+            "offset_top__2": 43,
+            "offset_left__2": 60,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_ficYJ9": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wea_i5.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MMqYXPddD\/?next=%2F&img_index=2",
+            "product__1": "elevate-3-4-sleeve-crop-top",
+            "offset_top__1": 12,
+            "offset_left__1": 32,
+            "product__2": "everyday-cap-sleeve-t-shirt",
+            "offset_top__2": 83,
+            "offset_left__2": 63,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_iWGFPW": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wea_i6.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MMqYXPddD\/?next=%2F&img_index=1",
+            "product__1": "plain-cotton-undershirt-wide-neck",
+            "offset_top__1": 78,
+            "offset_left__1": 32,
+            "product__2": "adjustable-minimalist-leather-bag",
+            "offset_top__2": 95,
+            "offset_left__2": 80,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        }
+      },
+      "block_order": [
+        "instagram_manual_upload_WnPgR7",
+        "instagram_manual_upload_HNfRyy",
+        "instagram_manual_upload_XHACUJ",
+        "instagram_manual_upload_iHBcAC",
+        "instagram_manual_upload_ficYJ9",
+        "instagram_manual_upload_iWGFPW"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "",
+        "heading": "Shop by Gram",
+        "description": "<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "image_ratio": "square",
+        "custom_ratio": "",
+        "hotspot_style": "plus",
+        "items_per_row": 6,
+        "column_gap": 10,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    }
+  },
+  "order": [
+    "multi_content_qti8ri",
+    "scrolling_text_U3mttg",
+    "rich_text_gKKkne",
+    "collection_list_VmEYkJ",
+    "products_carousel_AdKeFt",
+    "lookbook_image_LWBbaq",
+    "product_testimonials_KNN6XE",
+    "rich_text_EcBgbR",
+    "instagram_shop_nrVWcV"
+  ]
+}

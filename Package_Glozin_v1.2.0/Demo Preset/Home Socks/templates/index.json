@@ -1,0 +1,572 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_LV7Xrq": {
+      "type": "slideshow",
+      "blocks": {
+        "slider_item_nVXEeA": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_img.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/socks_demo_mb1_e3519338-436b-4304-8f9d-232479bd6b3a.jpg",
+            "overlay_opacity": 0,
+            "slider_effect": "effect_fadeinup",
+            "subheading": "TODAY—BLACK FRIDAY",
+            "heading": "Save!<br>\n 30-50%",
+            "description": "<p>Starting at $175. Hurry up! Do not miss...<\/p>",
+            "first_button_label": "Shop Now",
+            "first_button_link": "shopify:\/\/collections\/kids-socks",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": false,
+            "content_alignment": "center",
+            "content_position": "middle-left",
+            "content_width": "full_width",
+            "content_max_width": 50,
+            "content_padding_block": 120,
+            "content_padding_inline": 30,
+            "show_content_background": false,
+            "content_background": "#ffffff",
+            "content_box_opacity": 100,
+            "content_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "slider_item_nVXEeA"
+      ],
+      "custom_css": [
+        ".sec__content-inner {width: 100%;}",
+        ".sec__content-subheading {color: var(--color-text);}",
+        "@media (min-width: 992px) {.h-full_screen {--height-header: 121px; --height-bar: 41px; }}",
+        ".sec__content-heading {line-height: 1;}"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "slide_height": "full_screen",
+        "desktop_height": 800,
+        "mobile_height": 360,
+        "color_scheme": "scheme-3d45e13e-fb95-4c3e-b8a1-d2d1427ec3ba",
+        "subheading_font_size": 13,
+        "subheading_font_weight": "heading_weight",
+        "subheading_spacing_bottom": 15,
+        "heading_font_size": 90,
+        "heading_font_weight": "heading_weight",
+        "heading_uppercase": false,
+        "heading_spacing_bottom": 10,
+        "des_font_size": 16,
+        "des_font_weight": "body_weight",
+        "des_spacing_bottom": 40,
+        "show_arrow": false,
+        "carousel_pagination": "disable",
+        "pagination_position": "center",
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "content_below_image": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_BrKFhr": {
+      "type": "products-carousel",
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "heading": "Best Selling",
+        "description": "Unmatched design—superior performance and customer satisfaction in one.",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "collection": "kids-socks",
+        "items_to_show": 8,
+        "items_per_row": 4,
+        "column_gap": 20,
+        "show_banner": false,
+        "sticky_banner": false,
+        "banner_width": 30,
+        "position": "left",
+        "banner_link": "",
+        "banner_type": "image",
+        "video_url": "",
+        "video_autoplay": true,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "collection_list_VmEYkJ": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_r7aTxN": {
+          "type": "collection",
+          "settings": {
+            "collection": "mens-socks",
+            "collection_image": "shopify:\/\/shop_images\/sock_clt1.jpg",
+            "collection_title": "Men's Socks"
+          }
+        },
+        "collection_FUAzK4": {
+          "type": "collection",
+          "settings": {
+            "collection": "womens-socks",
+            "collection_image": "shopify:\/\/shop_images\/sock_clt2.jpg",
+            "collection_title": "Women's Socks"
+          }
+        },
+        "collection_kUA3MH": {
+          "type": "collection",
+          "settings": {
+            "collection": "kids-socks",
+            "collection_image": "shopify:\/\/shop_images\/sock_clt3.jpg",
+            "collection_title": "Kid's Socks"
+          }
+        }
+      },
+      "block_order": [
+        "collection_r7aTxN",
+        "collection_FUAzK4",
+        "collection_kUA3MH"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "scheme-2fda5a6e-6108-409b-8bc9-68b901e725bf",
+        "heading": "Top Collections",
+        "description": "<p>Express your style with our standout collection—fashion meets sophistication.<\/p>",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "display_mode": "carousel",
+        "image_ratio": "adapt",
+        "custom_ratio": "",
+        "items_per_row": 3,
+        "column_gap": 20,
+        "collection_information_position": "overlay_image",
+        "design": "default",
+        "text_alignment": "center",
+        "show_product_count": false,
+        "font_size": 15,
+        "font_weight": "heading_weight",
+        "information_spacing": 12,
+        "rounded_image": true,
+        "image_custom_width": true,
+        "image_width": 185,
+        "show_arrow": true,
+        "carousel_pagination": "disable",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1.5,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_iGtnGr": {
+      "type": "products-carousel",
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "heading": "Today's Popular Picks",
+        "description": "Unmatched design—superior performance and customer satisfaction in one.",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "collection": "mens-socks",
+        "items_to_show": 8,
+        "items_per_row": 4,
+        "column_gap": 20,
+        "show_banner": false,
+        "sticky_banner": false,
+        "banner_width": 30,
+        "position": "left",
+        "banner_link": "",
+        "banner_type": "image",
+        "video_url": "",
+        "video_autoplay": true,
+        "show_arrow": false,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "multi_content_tXXPtM": {
+      "type": "multi-content",
+      "blocks": {
+        "image_with_text_overlay_QCg8ww": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "50%",
+            "vertical_align": "center",
+            "image": "shopify:\/\/shop_images\/sock_3.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "SAVE 30% BLACK FRIDAYS",
+            "heading": "Colour Spotlight<br>\nSupercomfort—Supernova",
+            "description": "",
+            "first_button_label": "Shop Sale",
+            "first_button_link": "shopify:\/\/collections\/mens-socks",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "center",
+            "content_position": "middle-center",
+            "content_padding_block": 30,
+            "content_padding_inline": 30,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "heading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 30,
+            "des_font_size": 30,
+            "des_font_weight": "heading_weight",
+            "des_spacing_bottom": 40
+          }
+        },
+        "image_8GUYVg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner.gif",
+            "image_link": "",
+            "content_width": "50%",
+            "vertical_align": "start"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_overlay_QCg8ww",
+        "image_8GUYVg"
+      ],
+      "custom_css": [],
+      "settings": {
+        "section_width": "container",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 0,
+        "equal_height_adjustment": true,
+        "carousel_on_mobile": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "product_testimonials_apnzQd": {
+      "type": "product-testimonials",
+      "blocks": {
+        "testimonials_items_yfDA6L": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/sock_testi2.jpg",
+            "author_rating": 5,
+            "author_text": "<p>A perfect product, it keeps you very warm without over heating. True to size, I couldn't be happier with the purchase... Thank you! 🤗<\/p>",
+            "select_product": "beige-insects-sock",
+            "author_name": "Cameron Smith."
+          }
+        },
+        "testimonials_items_xAFLXn": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/sock_testi1.jpg",
+            "author_rating": 5,
+            "author_text": "<p>A perfect product, it keeps you very warm without over heating. True to size, I couldn't be happier with the purchase... Thank you! 🤗<\/p>",
+            "select_product": "winter-lady-liberty-sock",
+            "author_name": "Carie-Gosée H."
+          }
+        },
+        "testimonials_items_ALEAzK": {
+          "type": "testimonials_items",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/img_8.jpg",
+            "author_rating": 5,
+            "author_text": "<p>A perfect product, it keeps you very warm without over heating. True to size, I couldn't be happier with the purchase... Thank you! 🤗<\/p>",
+            "select_product": "blue-flying-bicycle-sock",
+            "author_name": "Susan Gibson."
+          }
+        }
+      },
+      "block_order": [
+        "testimonials_items_yfDA6L",
+        "testimonials_items_xAFLXn",
+        "testimonials_items_ALEAzK"
+      ],
+      "custom_css": [
+        ".testimonial_wraper {--col-width: 37%;}"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "heading": "Customer Say!",
+        "description": "<p>Customers love our products and we always strive to please them all.<\/p>",
+        "header_alignment": "center",
+        "header_size": "medium",
+        "show_image": true,
+        "show_verified_buyer": true,
+        "img_position": "left",
+        "image_ratio": "square",
+        "custom_ratio": "",
+        "img_width": 30,
+        "framed": true,
+        "rate_color": "#ff9c05",
+        "items_per_row": 2,
+        "column_gap": 20,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "instagram_shop_BpXCUL": {
+      "type": "instagram-shop",
+      "blocks": {
+        "instagram_manual_upload_Gmgeyh": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_i1.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MJRHhv908\/?next=%2F&img_index=8",
+            "product__1": "beige-insects-sock",
+            "offset_top__1": 12,
+            "offset_left__1": 32,
+            "product__2": "black-mushrooms-sock",
+            "offset_top__2": 40,
+            "offset_left__2": 51,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_bFXAhM": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_i2.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MJRHhv908\/?next=%2F&img_index=6",
+            "product__1": "samourai-socks-dark-blue",
+            "offset_top__1": 31,
+            "offset_left__1": 53,
+            "product__2": "blue-flying-bicycle-sock",
+            "offset_top__2": 77,
+            "offset_left__2": 67,
+            "product__3": "beige-insects-sock",
+            "offset_top__3": 55,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_7GGHtW": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_i3.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MJRHhv908\/?next=%2F&img_index=5",
+            "product__1": "samourai-socks-dark-blue",
+            "offset_top__1": 47,
+            "offset_left__1": 66,
+            "product__2": "",
+            "offset_top__2": 1,
+            "offset_left__2": 43,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_XnCBnm": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_i4.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MJRHhv908\/?next=%2F&img_index=4",
+            "product__1": "skulls-socks-blue",
+            "offset_top__1": 64,
+            "offset_left__1": 32,
+            "product__2": "",
+            "offset_top__2": 1,
+            "offset_left__2": 43,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_bWDnCb": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_i5.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MJRHhv908\/?next=%2F&img_index=3",
+            "product__1": "dark-blue-dogs-sock",
+            "offset_top__1": 75,
+            "offset_left__1": 83,
+            "product__2": "",
+            "offset_top__2": 1,
+            "offset_left__2": 43,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_k8NQPz": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_i6.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MJRHhv908\/?next=%2F&img_index=2",
+            "product__1": "skulls-socks-blue",
+            "offset_top__1": 45,
+            "offset_left__1": 50,
+            "product__2": "blue-flying-bicycle-sock",
+            "offset_top__2": 36,
+            "offset_left__2": 74,
+            "product__3": "dark-blue-dogs-sock",
+            "offset_top__3": 70,
+            "offset_left__3": 60,
+            "product__4": "winter-lady-liberty-sock",
+            "offset_top__4": 60,
+            "offset_left__4": 85,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_kCbc6V": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sock_insta_8.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MJRHhv908\/?next=%2F&img_index=1",
+            "product__1": "beige-insects-sock",
+            "offset_top__1": 68,
+            "offset_left__1": 45,
+            "product__2": "",
+            "offset_top__2": 61,
+            "offset_left__2": 43,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        }
+      },
+      "block_order": [
+        "instagram_manual_upload_Gmgeyh",
+        "instagram_manual_upload_bFXAhM",
+        "instagram_manual_upload_7GGHtW",
+        "instagram_manual_upload_XnCBnm",
+        "instagram_manual_upload_bWDnCb",
+        "instagram_manual_upload_k8NQPz",
+        "instagram_manual_upload_kCbc6V"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "",
+        "heading": "Shop by Gram",
+        "description": "<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "image_ratio": "adapt",
+        "custom_ratio": "",
+        "hotspot_style": "plus",
+        "items_per_row": 7,
+        "column_gap": 10,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    }
+  },
+  "order": [
+    "slideshow_LV7Xrq",
+    "products_carousel_BrKFhr",
+    "collection_list_VmEYkJ",
+    "products_carousel_iGtnGr",
+    "multi_content_tXXPtM",
+    "product_testimonials_apnzQd",
+    "instagram_shop_BpXCUL"
+  ]
+}

@@ -1,0 +1,730 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "multi_content_wNmihx": {
+      "type": "multi-content",
+      "blocks": {
+        "image_with_text_overlay_jaWzVF": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "25%",
+            "vertical_align": "center",
+            "image": "shopify:\/\/shop_images\/collection_home3_1.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "",
+            "heading": "",
+            "description": "",
+            "first_button_label": "New Arrivals",
+            "first_button_link": "",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "center",
+            "content_position": "bottom-center",
+            "content_padding_block": 50,
+            "content_padding_inline": 15,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        },
+        "video_with_text_overlay_nbdDnK": {
+          "type": "video_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "video_local": "",
+            "video_poster": "shopify:\/\/shop_images\/morden-wear.jpg",
+            "autoplay": true,
+            "aspect_ratio": "custom",
+            "custom_ratio": "458:650",
+            "content_width": "25%",
+            "vertical_align": "start",
+            "image_overlay_opacity": 0,
+            "subheading": "",
+            "heading": "",
+            "description": "",
+            "first_button_label": "Shop Save",
+            "first_button_link": "shopify:\/\/collections\/sweaters",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "center",
+            "content_position": "bottom-center",
+            "content_padding_block": 50,
+            "content_padding_inline": 15,
+            "content_below_image": false,
+            "subheading_font_size": 20,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 60,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 16,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 40
+          }
+        },
+        "image_with_text_overlay_pkNzUm": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "25%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/collection_home3_2.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "",
+            "heading": "",
+            "description": "",
+            "first_button_label": "Shop Accessories",
+            "first_button_link": "shopify:\/\/collections\/crop-top",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "center",
+            "content_position": "bottom-center",
+            "content_padding_block": 50,
+            "content_padding_inline": 15,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        },
+        "image_with_text_overlay_EAtqta": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "25%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/collection_home3_3.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "",
+            "heading": "",
+            "description": "",
+            "first_button_label": "Best Sellers",
+            "first_button_link": "shopify:\/\/collections\/best-seller",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "center",
+            "content_position": "bottom-center",
+            "content_padding_block": 50,
+            "content_padding_inline": 15,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_overlay_jaWzVF",
+        "video_with_text_overlay_nbdDnK",
+        "image_with_text_overlay_pkNzUm",
+        "image_with_text_overlay_EAtqta"
+      ],
+      "custom_css": [
+        ".sec__content-inner {width: 90%;}",
+        ".btn-primary {width: 90%; text-align: center; justify-content: center; max-width: 210px; --btn-padding-x: 15px;}"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 10,
+        "equal_height_adjustment": false,
+        "carousel_on_mobile": true,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "icon_box_ARAd9J": {
+      "type": "icon-box",
+      "blocks": {
+        "icon_box_BKc7Y6": {
+          "type": "icon_box",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/fs3_icon1.png",
+            "icon_svg": "free_shipping",
+            "custom_svg": "",
+            "heading": "Free Shipping",
+            "description": "<p>You will love at great low prices.<\/p>"
+          }
+        },
+        "icon_box_VGntEH": {
+          "type": "icon_box",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/fs3_icon2.png",
+            "icon_svg": "check_badge",
+            "custom_svg": "",
+            "heading": "Free Returns",
+            "description": "<p>Within 15 days for an exchange.<\/p>"
+          }
+        },
+        "icon_box_xYFgde": {
+          "type": "icon_box",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/fs3_icon3.png",
+            "icon_svg": "message_communications",
+            "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"26\" height=\"26\" viewbox=\"0 0 26 26\" fill=\"none\">\n  <path d=\"M4.2572 17.2024L17.203 4.25659\" stroke=\"#111111\" stroke-width=\"1.6\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n  <path d=\"M12.0264 19.8022L13.3264 18.5022\" stroke=\"#111111\" stroke-width=\"1.6\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n  <path d=\"M14.9424 16.8878L17.5315 14.2986\" stroke=\"#111111\" stroke-width=\"1.6\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n  <path d=\"M3.90134 11.0922L11.0947 3.89888C13.3913 1.60221 14.5397 1.59138 16.8147 3.86638L22.1338 9.18554C24.4088 11.4605 24.398 12.6089 22.1013 14.9055L14.908 22.0989C12.6113 24.3955 11.463 24.4064 9.188 22.1314L3.86884 16.8122C1.59384 14.5372 1.59383 13.3997 3.90134 11.0922Z\" stroke=\"#111111\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n  <path d=\"M2.16663 23.8318H23.8333\" stroke=\"#111111\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>",
+            "heading": "Flexible Payment",
+            "description": "<p>Pay with multiple credit cards.<\/p>"
+          }
+        },
+        "icon_box_iEhXnD": {
+          "type": "icon_box",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/fs3_icon4.png",
+            "icon_svg": "message_communications",
+            "custom_svg": "",
+            "heading": "Support Online",
+            "description": "<p>Outstanding premium support.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon_box_BKc7Y6",
+        "icon_box_VGntEH",
+        "icon_box_xYFgde",
+        "icon_box_iEhXnD"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "type": "default",
+        "column_gap": 30,
+        "icon_position": "left",
+        "icon_size": 60,
+        "spacing": 20,
+        "content_alignment": "left",
+        "heading_font_size": 16,
+        "heading_font_weight": "heading_weight",
+        "heading_uppercase": false,
+        "heading_spacing_bottom": 5,
+        "des_font_size": 15,
+        "des_font_weight": "body_weight",
+        "carousel_on_mobile": false,
+        "items_per_row_mobile": "1",
+        "padding_top": 58,
+        "padding_bottom": 50,
+        "reset_spacing": true
+      }
+    },
+    "divider_PJrpyH": {
+      "type": "divider",
+      "settings": {
+        "section_width": "fluid_container",
+        "border_height": 1,
+        "border_color": "#ebebeb",
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_AdKeFt": {
+      "type": "products-carousel",
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Best Selling",
+        "description": "Unmatched design—superior performance and customer satisfaction in one.",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "collection": "best-seller",
+        "items_to_show": 8,
+        "items_per_row": 4,
+        "column_gap": 30,
+        "show_banner": false,
+        "sticky_banner": false,
+        "banner_width": 30,
+        "position": "left",
+        "banner_link": "",
+        "banner_type": "image",
+        "video_url": "",
+        "video_autoplay": false,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "multi_content_edprDk": {
+      "type": "multi-content",
+      "blocks": {
+        "image_with_text_overlay_VmpB4P": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "50%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/banner_home3_1.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "SAVE 30—50% SWEATERS",
+            "heading": "Color Spotlight",
+            "description": "",
+            "first_button_label": "Shop Sale",
+            "first_button_link": "shopify:\/\/collections\/best-seller",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "heading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 20,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        },
+        "image_with_text_overlay_MGPzHi": {
+          "type": "image_with_text_overlay",
+          "settings": {
+            "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+            "content_width": "50%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/banner_home3_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/banner_home3_2.jpg",
+            "image_link": "",
+            "image_overlay_opacity": 0,
+            "custom_svg": "",
+            "subheading": "SAVE 10%—30% DRESSES",
+            "heading": "Uniquely Everyday",
+            "description": "",
+            "first_button_label": "Shop Sale",
+            "first_button_link": "shopify:\/\/collections\/trending",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "content_below_image": false,
+            "custom_svg_spacing_bottom": 10,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "heading_weight",
+            "subheading_spacing_bottom": 10,
+            "heading_font_size": 36,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 20,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_overlay_VmpB4P",
+        "image_with_text_overlay_MGPzHi"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 30,
+        "equal_height_adjustment": false,
+        "carousel_on_mobile": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "tiktok_video_6CiNah": {
+      "type": "tiktok-video",
+      "blocks": {
+        "video_fgEaP4": {
+          "type": "video",
+          "settings": {
+            "tiktok_embed_url": "<blockquote class=\"tiktok-embed\" cite=\"https:\/\/www.tiktok.com\/@user8010557180212\/video\/7376122409948073236\" data-video-id=\"7376122409948073236\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@user8010557180212\" href=\"https:\/\/www.tiktok.com\/@user8010557180212?refer=embed\">@user8010557180212<\/a> <p>1<\/p> <a target=\"_blank\" title=\"♬ original sound  - user8010557180212\" href=\"https:\/\/www.tiktok.com\/music\/original-sound-user8010557180212-7376122833266641681?refer=embed\">♬ original sound  - user8010557180212<\/a> <\/section> <\/blockquote> <script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>"
+          }
+        },
+        "video_Wxf7JN": {
+          "type": "video",
+          "settings": {
+            "tiktok_embed_url": "<blockquote class=\"tiktok-embed\" cite=\"https:\/\/www.tiktok.com\/@user8010557180212\/video\/7376126265608195344\" data-video-id=\"7376126265608195344\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@user8010557180212\" href=\"https:\/\/www.tiktok.com\/@user8010557180212?refer=embed\">@user8010557180212<\/a> <p>2<\/p> <a target=\"_blank\" title=\"♬ original sound  - user8010557180212\" href=\"https:\/\/www.tiktok.com\/music\/original-sound-user8010557180212-7376126892371528465?refer=embed\">♬ original sound  - user8010557180212<\/a> <\/section> <\/blockquote> <script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>"
+          }
+        },
+        "video_BNgiC9": {
+          "type": "video",
+          "settings": {
+            "tiktok_embed_url": "<blockquote class=\"tiktok-embed\" cite=\"https:\/\/www.tiktok.com\/@user8010557180212\/video\/7376126867956354324\" data-video-id=\"7376126867956354324\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@user8010557180212\" href=\"https:\/\/www.tiktok.com\/@user8010557180212?refer=embed\">@user8010557180212<\/a> <p>3<\/p> <a target=\"_blank\" title=\"♬ original sound  - user8010557180212\" href=\"https:\/\/www.tiktok.com\/music\/original-sound-user8010557180212-7376127094880766736?refer=embed\">♬ original sound  - user8010557180212<\/a> <\/section> <\/blockquote> <script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>"
+          }
+        },
+        "video_6dXzc8": {
+          "type": "video",
+          "settings": {
+            "tiktok_embed_url": "<blockquote class=\"tiktok-embed\" cite=\"https:\/\/www.tiktok.com\/@user8010557180212\/video\/7376126424219946247\" data-video-id=\"7376126424219946247\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@user8010557180212\" href=\"https:\/\/www.tiktok.com\/@user8010557180212?refer=embed\">@user8010557180212<\/a> <p>4<\/p> <a target=\"_blank\" title=\"♬ original sound  - user8010557180212\" href=\"https:\/\/www.tiktok.com\/music\/original-sound-user8010557180212-7376127212115806992?refer=embed\">♬ original sound  - user8010557180212<\/a> <\/section> <\/blockquote> <script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>"
+          }
+        }
+      },
+      "block_order": [
+        "video_fgEaP4",
+        "video_Wxf7JN",
+        "video_BNgiC9",
+        "video_6dXzc8"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Trend on Tiktok",
+        "description": "<p>Connect us on TikTok for exclusive releases, unboxing and try-on videos,<br\/>reviews, and more from our top brands and stylists.<\/p>",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "tiktok_handle": "<p>Trusted customers are our happiness. <a href=\"https:\/\/www.tiktok.com\/@user8010557180212\" title=\"https:\/\/www.tiktok.com\/@user8010557180212\"><span style=\"text-decoration:underline\"><strong>Follow us on Tiktok.<\/strong><\/span><\/a><\/p>",
+        "items_per_row": 4,
+        "column_gap": 30,
+        "show_arrow": false,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "divider_D4gBXA": {
+      "type": "divider",
+      "settings": {
+        "section_width": "full_width",
+        "border_height": 1,
+        "border_color": "#ebebeb",
+        "reset_spacing": false
+      }
+    },
+    "blog_posts_zFFfQz": {
+      "type": "blog-posts",
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "The Blog",
+        "description": "<p>Provide you with useful knowledge about fashion trend.<\/p>",
+        "show_view_all": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "blog": "life-style",
+        "image_ratio": "adapt",
+        "custom_ratio": "1:1",
+        "show_category": true,
+        "show_author": true,
+        "show_date": true,
+        "show_comment_count": true,
+        "show_excerpt": true,
+        "content_alignment": "center",
+        "design": "default",
+        "items_to_show": 3,
+        "items_per_row": 3,
+        "column_gap": 30,
+        "show_arrow": false,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "divider_q4PQHT": {
+      "type": "divider",
+      "settings": {
+        "section_width": "fluid_container",
+        "border_height": 1,
+        "border_color": "#ebebeb",
+        "reset_spacing": false
+      }
+    },
+    "instagram_shop_nrVWcV": {
+      "type": "instagram-shop",
+      "blocks": {
+        "instagram_manual_upload_WnPgR7": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-in-1.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MFsIuv8G6\/?next=%2F&img_index=6",
+            "product__1": "anime-t-shirt-printed-short-sleeve",
+            "offset_top__1": 66,
+            "offset_left__1": 65,
+            "product__2": "cotton-long-sleeve-crop-t-shirt",
+            "offset_top__2": 27,
+            "offset_left__2": 76,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_HNfRyy": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "local_video": "",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MFsIuv8G6\/?next=%2F&img_index=2",
+            "product__1": "braid-detailed-sleeveless-flow-top",
+            "offset_top__1": 78,
+            "offset_left__1": 32,
+            "product__2": "cotton-long-sleeve-crop-t-shirt",
+            "offset_top__2": 1,
+            "offset_left__2": 43,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_XHACUJ": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-in-2.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MFsIuv8G6\/?next=%2F&img_index=5",
+            "product__1": "ribbed-short-sleeves-cropped-top",
+            "offset_top__1": 27,
+            "offset_left__1": 32,
+            "product__2": "plain-cotton-undershirt-wide-neck",
+            "offset_top__2": 68,
+            "offset_left__2": 95,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_iHBcAC": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-in-3.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MFsIuv8G6\/?next=%2F&img_index=4",
+            "product__1": "cotton-long-sleeve-striped-t-shirt",
+            "offset_top__1": 89,
+            "offset_left__1": 22,
+            "product__2": "",
+            "offset_top__2": 1,
+            "offset_left__2": 43,
+            "product__3": "slim-fit-basic-unpatterned-t-shirt",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_ficYJ9": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "local_video": "",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MFsIuv8G6\/?next=%2F&img_index=1",
+            "product__1": "slim-fit-basic-unpatterned-t-shirt",
+            "offset_top__1": 85,
+            "offset_left__1": 44,
+            "product__2": "slim-fit-basic-unpatterned-t-shirt-1",
+            "offset_top__2": 1,
+            "offset_left__2": 43,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_BmQHQ3": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img_instagram.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_",
+            "link": "",
+            "product__1": "elastic-waist-cotton-short-t-shirt",
+            "offset_top__1": 9,
+            "offset_left__1": 16,
+            "product__2": "cotton-long-sleeve-crop-t-shirt",
+            "offset_top__2": 78,
+            "offset_left__2": 68,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        },
+        "instagram_manual_upload_iWGFPW": {
+          "type": "instagram_manual_upload",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-in-4.jpg",
+            "more_info": "<p>We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?<\/p><p>#cotton #glozin #trending #sale<\/p>",
+            "instagram_post_name": "glozin_store",
+            "link": "https:\/\/www.instagram.com\/p\/C8MFsIuv8G6\/?next=%2F&img_index=3",
+            "product__1": "plain-cotton-undershirt-wide-neck",
+            "offset_top__1": 78,
+            "offset_left__1": 32,
+            "product__2": "adjustable-minimalist-leather-bag",
+            "offset_top__2": 95,
+            "offset_left__2": 80,
+            "product__3": "",
+            "offset_top__3": 10,
+            "offset_left__3": 40,
+            "product__4": "",
+            "offset_top__4": 60,
+            "offset_left__4": 70,
+            "product__5": "",
+            "offset_top__5": 1,
+            "offset_left__5": 4
+          }
+        }
+      },
+      "block_order": [
+        "instagram_manual_upload_WnPgR7",
+        "instagram_manual_upload_HNfRyy",
+        "instagram_manual_upload_XHACUJ",
+        "instagram_manual_upload_iHBcAC",
+        "instagram_manual_upload_ficYJ9",
+        "instagram_manual_upload_BmQHQ3",
+        "instagram_manual_upload_iWGFPW"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "color_scheme": "",
+        "heading": "Shop by Gram",
+        "description": "<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "image_ratio": "square",
+        "custom_ratio": "",
+        "hotspot_style": "plus",
+        "items_per_row": 7,
+        "column_gap": 10,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    }
+  },
+  "order": [
+    "multi_content_wNmihx",
+    "icon_box_ARAd9J",
+    "divider_PJrpyH",
+    "products_carousel_AdKeFt",
+    "multi_content_edprDk",
+    "tiktok_video_6CiNah",
+    "divider_D4gBXA",
+    "blog_posts_zFFfQz",
+    "divider_q4PQHT",
+    "instagram_shop_nrVWcV"
+  ]
+}

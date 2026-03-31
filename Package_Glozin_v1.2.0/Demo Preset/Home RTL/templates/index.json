@@ -1,0 +1,852 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_8KKtNU": {
+      "type": "slideshow",
+      "blocks": {
+        "slider_item_YipJd4": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_s1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/footwear_demo_mb1_299a0084-8a52-4da5-98df-1c190f8fce80.jpg",
+            "overlay_opacity": 0,
+            "slider_effect": "effect_fadeinup",
+            "subheading": "TOP COLLECTIONS",
+            "heading": "High-Top Design",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": false,
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_width": "full_width",
+            "content_max_width": 100,
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "show_content_background": false,
+            "content_background": "#ffffff",
+            "content_box_opacity": 100,
+            "content_alignment_mobile": "left"
+          }
+        },
+        "slider_item_iAiXpe": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_s2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/footwear_demo_mb2_c7e22915-69f3-4e63-9103-f39af498ada8.jpg",
+            "overlay_opacity": 0,
+            "slider_effect": "effect_fadeindown",
+            "subheading": "TOP COLLECTIONS",
+            "heading": "Super Comfort",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": false,
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_width": "full_width",
+            "content_max_width": 100,
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "show_content_background": false,
+            "content_background": "#ffffff",
+            "content_box_opacity": 100,
+            "content_alignment_mobile": "left"
+          }
+        },
+        "slider_item_jiLA39": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_s3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/footwear_demo_mb3_b08d6f23-c247-4759-9899-40a66c4ec117.jpg",
+            "overlay_opacity": 0,
+            "slider_effect": "effect_zoomout",
+            "subheading": "TOP COLLECTIONS",
+            "heading": "Limited Edition",
+            "description": "",
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": false,
+            "content_alignment": "left",
+            "content_position": "bottom-left",
+            "content_width": "full_width",
+            "content_max_width": 100,
+            "content_padding_block": 50,
+            "content_padding_inline": 50,
+            "show_content_background": false,
+            "content_background": "#ffffff",
+            "content_box_opacity": 100,
+            "content_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "slider_item_YipJd4",
+        "slider_item_iAiXpe",
+        "slider_item_jiLA39"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "slide_height": "adapt",
+        "desktop_height": 650,
+        "mobile_height": 300,
+        "color_scheme": "scheme-c4fa9b2e-e94e-477a-a1f0-ab1da4f2a676",
+        "subheading_font_size": 13,
+        "subheading_font_weight": "heading_weight",
+        "subheading_spacing_bottom": 0,
+        "heading_font_size": 60,
+        "heading_font_weight": "heading_weight",
+        "heading_uppercase": false,
+        "heading_spacing_bottom": 12,
+        "des_font_size": 19,
+        "des_font_weight": "heading_weight",
+        "des_spacing_bottom": 60,
+        "show_arrow": false,
+        "carousel_pagination": "show_dots",
+        "pagination_position": "center",
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "content_below_image": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "collection_list_VmEYkJ": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_r7aTxN": {
+          "type": "collection",
+          "settings": {
+            "collection": "converses",
+            "collection_image": "shopify:\/\/shop_images\/fw_clt1.jpg",
+            "collection_title": "Converses"
+          }
+        },
+        "collection_FUAzK4": {
+          "type": "collection",
+          "settings": {
+            "collection": "sneakers",
+            "collection_image": "shopify:\/\/shop_images\/fw_clt2.jpg",
+            "collection_title": "Sneakers"
+          }
+        },
+        "collection_kUA3MH": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-sandals",
+            "collection_image": "shopify:\/\/shop_images\/fw_clt3.jpg",
+            "collection_title": "Top Sandals"
+          }
+        },
+        "collection_ctTBpd": {
+          "type": "collection",
+          "settings": {
+            "collection": "slip-ons",
+            "collection_image": "shopify:\/\/shop_images\/fw_clt4.jpg",
+            "collection_title": "Slip-Ons"
+          }
+        },
+        "collection_fyfMEN": {
+          "type": "collection",
+          "settings": {
+            "collection": "active-shoes",
+            "collection_image": "shopify:\/\/shop_images\/fw_clt5.jpg",
+            "collection_title": "Active Shoes"
+          }
+        }
+      },
+      "block_order": [
+        "collection_r7aTxN",
+        "collection_FUAzK4",
+        "collection_kUA3MH",
+        "collection_ctTBpd",
+        "collection_fyfMEN"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "scheme-09e19521-4b65-491d-97ed-95d5f7ddec92",
+        "heading": "Top Collections",
+        "description": "<p>Express your style with our standout collection—fashion meets sophistication.<\/p>",
+        "show_view_all_button": false,
+        "header_size": "medium",
+        "header_alignment": "center",
+        "display_mode": "carousel",
+        "image_ratio": "adapt",
+        "custom_ratio": "",
+        "items_per_row": 5,
+        "column_gap": 20,
+        "collection_information_position": "overlay_image",
+        "design": "default",
+        "text_alignment": "center",
+        "show_product_count": false,
+        "font_size": 15,
+        "font_weight": "heading_weight",
+        "information_spacing": 12,
+        "rounded_image": true,
+        "image_custom_width": true,
+        "image_width": 185,
+        "show_arrow": true,
+        "carousel_pagination": "disable",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1.5,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "brand_logo_paAFUe": {
+      "type": "brand-logo",
+      "blocks": {
+        "brand_items_f7Nf9z": {
+          "type": "brand_items",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_brand1.jpg",
+            "link": "shopify:\/\/collections\/active-shoes"
+          }
+        },
+        "brand_items_7NKraG": {
+          "type": "brand_items",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_brand2.jpg",
+            "link": "shopify:\/\/collections\/top-sandals"
+          }
+        },
+        "brand_items_wyY8qz": {
+          "type": "brand_items",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_brand3.jpg",
+            "link": "shopify:\/\/collections\/sneakers"
+          }
+        },
+        "brand_items_mDq8YP": {
+          "type": "brand_items",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_brand4.jpg",
+            "link": "shopify:\/\/collections\/slip-ons"
+          }
+        },
+        "brand_items_dWVki9": {
+          "type": "brand_items",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_brand5.jpg",
+            "link": "shopify:\/\/collections\/converses"
+          }
+        }
+      },
+      "block_order": [
+        "brand_items_f7Nf9z",
+        "brand_items_7NKraG",
+        "brand_items_wyY8qz",
+        "brand_items_mDq8YP",
+        "brand_items_dWVki9"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Featured Brands",
+        "description": "<p>Express your style with our standout collection—fashion meets sophistication.<\/p>",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "image_ratio": "custom",
+        "custom_ratio": "2:1",
+        "img_width": 300,
+        "logo_opacity": 100,
+        "open_link_newtab": true,
+        "framed": true,
+        "items_per_row": 5,
+        "column_gap": 20,
+        "show_arrow": true,
+        "carousel_pagination": "show_dots_on_mobile",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 2,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "multi_content_y6DJgy": {
+      "type": "multi-content",
+      "blocks": {
+        "image_gfYgQr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_1.jpg",
+            "image_link": "shopify:\/\/collections\/converses",
+            "content_width": "33.333%",
+            "vertical_align": "start"
+          }
+        },
+        "image_ejtg8z": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_2.jpg",
+            "image_link": "shopify:\/\/collections\/sneakers",
+            "content_width": "33.333%",
+            "vertical_align": "start"
+          }
+        },
+        "image_Rrw9FL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_3.jpg",
+            "image_link": "",
+            "content_width": "33.333%",
+            "vertical_align": "start"
+          }
+        }
+      },
+      "block_order": [
+        "image_gfYgQr",
+        "image_ejtg8z",
+        "image_Rrw9FL"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 20,
+        "equal_height_adjustment": false,
+        "carousel_on_mobile": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "rich_text_xcCfad": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_TxhX6y": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Outsole Sneakers Smith Lux",
+            "font_size": 16,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 7
+          }
+        },
+        "heading_WxzXjb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Supercomfort—Supernova",
+            "font_size": 36,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 10
+          }
+        },
+        "description_xH6kG3": {
+          "type": "description",
+          "settings": {
+            "description": "<p>Outsole Sneakers Smith Lux: Unleash comfort and style with our latest innovative sneaker design. Experience maximum comfort with the new Outsole Sneakers Smith Lux.<\/p>",
+            "font_size": 15,
+            "font_weight": "body_weight",
+            "spacing_bottom": 30
+          }
+        },
+        "button_wwL4aD": {
+          "type": "button",
+          "settings": {
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections\/active-shoes",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "subheading_TxhX6y",
+        "heading_WxzXjb",
+        "description_xH6kG3",
+        "button_wwL4aD"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "content_max_width": 69,
+        "enable_expand_content": false,
+        "expand_content_button": "See all Information",
+        "padding_top": 32,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_BrKFhr": {
+      "type": "products-carousel",
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "heading": "Best Selling",
+        "description": "",
+        "show_view_all_button": true,
+        "header_size": "medium",
+        "header_alignment": "left",
+        "collection": "sneakers",
+        "items_to_show": 8,
+        "items_per_row": 4,
+        "column_gap": 20,
+        "show_banner": false,
+        "sticky_banner": false,
+        "banner_width": 30,
+        "position": "left",
+        "banner_link": "",
+        "banner_type": "image",
+        "video_url": "",
+        "video_autoplay": true,
+        "show_arrow": true,
+        "carousel_pagination": "disable",
+        "infinite": false,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "reveal": false,
+        "items_per_row_mobile": 1.5,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "multi_content_gK4MAT": {
+      "type": "multi-content",
+      "blocks": {
+        "image_Kpg4r9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_4.jpg",
+            "image_link": "shopify:\/\/collections\/top-sandals",
+            "content_width": "50%",
+            "vertical_align": "start"
+          }
+        },
+        "image_PEKK3C": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fw_5.jpg",
+            "image_link": "shopify:\/\/collections\/slip-ons",
+            "content_width": "50%",
+            "vertical_align": "start"
+          }
+        }
+      },
+      "block_order": [
+        "image_Kpg4r9",
+        "image_PEKK3C"
+      ],
+      "settings": {
+        "section_width": "stretch_width",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 20,
+        "equal_height_adjustment": false,
+        "carousel_on_mobile": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "rich_text_xkRb9a": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_dmFRrz": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Slip-Ons Sparks Ecru",
+            "font_size": 16,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 10
+          }
+        },
+        "heading_TrqGL3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Luxury—Simplicity SP15",
+            "font_size": 36,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 10
+          }
+        },
+        "description_6txh43": {
+          "type": "description",
+          "settings": {
+            "description": "<p>Slip-Ons Sparks Ecru are versatile and chic on point–your go-to for workdays and casual-chic dinners. It’s effortless elegance makes it one of this season’s must-haves.<\/p>",
+            "font_size": 15,
+            "font_weight": "body_weight",
+            "spacing_bottom": 30
+          }
+        },
+        "button_pcXdET": {
+          "type": "button",
+          "settings": {
+            "first_button_label": "Shop Collection",
+            "first_button_link": "shopify:\/\/collections\/sneakers",
+            "first_button_type": "primary",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "subheading_dmFRrz",
+        "heading_TrqGL3",
+        "description_6txh43",
+        "button_pcXdET"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "content_max_width": 63,
+        "enable_expand_content": false,
+        "expand_content_button": "See all Information",
+        "padding_top": 32,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "rich_text_dNFPQj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GPcNnq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop The Collections",
+            "font_size": 36,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 24
+          }
+        }
+      },
+      "block_order": [
+        "heading_GPcNnq"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "content_alignment": "left",
+        "content_max_width": 100,
+        "enable_expand_content": false,
+        "expand_content_button": "See all Information",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "multi_content_PzUKKr": {
+      "type": "multi-content",
+      "blocks": {
+        "image_with_text_below_VwjqXr": {
+          "type": "image_with_text_below",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "content_width": "25%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/fw_clt6.jpg",
+            "image_link": "shopify:\/\/collections\/active-shoes",
+            "subheading": "",
+            "heading": "Everyday Shoes Unisex",
+            "description": "<p>Our new outsole is extremely soft and flexible, made from 100% pure natural latex harvested from the rubber trees.<\/p>",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_type": "link",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "spacing_top": 16,
+            "spacing_bottom": 0,
+            "content_padding_inline": 0,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 15,
+            "heading_font_size": 20,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 20
+          }
+        },
+        "image_with_text_below_W4dyEi": {
+          "type": "image_with_text_below",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "content_width": "25%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/fw_clt7.jpg",
+            "image_link": "shopify:\/\/collections\/sneakers",
+            "subheading": "",
+            "heading": "High-Top Leather Shoes",
+            "description": "<p>Our new outsole is extremely soft and flexible, made from 100% pure natural latex harvested from the rubber trees.<\/p>",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_type": "link",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "spacing_top": 16,
+            "spacing_bottom": 0,
+            "content_padding_inline": 0,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 15,
+            "heading_font_size": 20,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 20
+          }
+        },
+        "image_with_text_below_YNxKBc": {
+          "type": "image_with_text_below",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "content_width": "25%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/fw_clt8.jpg",
+            "image_link": "shopify:\/\/collections\/top-sandals",
+            "subheading": "",
+            "heading": "Flatforms Slides Sandals",
+            "description": "<p>Our new outsole is extremely soft and flexible, made from 100% pure natural latex harvested from the rubber trees.<\/p>",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_type": "link",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "spacing_top": 16,
+            "spacing_bottom": 0,
+            "content_padding_inline": 0,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 15,
+            "heading_font_size": 20,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 20
+          }
+        },
+        "image_with_text_below_F7ghWT": {
+          "type": "image_with_text_below",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "content_width": "25%",
+            "vertical_align": "start",
+            "image": "shopify:\/\/shop_images\/fw_clt9.jpg",
+            "image_link": "shopify:\/\/collections\/slip-ons",
+            "subheading": "",
+            "heading": "Super Light Collection",
+            "description": "<p>Because the early bird gives (and gets) the best gifts... we've pulled together our coziest picks ahead of the holidays.<\/p>",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_type": "link",
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_type": "primary",
+            "content_alignment": "left",
+            "spacing_top": 16,
+            "spacing_bottom": 0,
+            "content_padding_inline": 0,
+            "subheading_font_size": 13,
+            "subheading_font_weight": "subheading_weight",
+            "subheading_spacing_bottom": 15,
+            "heading_font_size": 20,
+            "heading_font_weight": "heading_weight",
+            "heading_uppercase": false,
+            "heading_spacing_bottom": 10,
+            "des_font_size": 15,
+            "des_font_weight": "body_weight",
+            "des_spacing_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_below_VwjqXr",
+        "image_with_text_below_W4dyEi",
+        "image_with_text_below_YNxKBc",
+        "image_with_text_below_F7ghWT"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "heading": "",
+        "description": "",
+        "header_size": "medium",
+        "header_alignment": "center",
+        "column_gap": 20,
+        "equal_height_adjustment": false,
+        "carousel_on_mobile": false,
+        "items_per_row_mobile": 1,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "divider_k3FrdB": {
+      "type": "divider",
+      "settings": {
+        "section_width": "fluid_container",
+        "border_height": 1,
+        "border_color": "#ebebeb",
+        "reset_spacing": false
+      }
+    },
+    "rich_text_EcBgbR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_j3PNaT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Footwear for Everybody!",
+            "font_size": 36,
+            "font_weight": "heading_weight",
+            "uppercase": false,
+            "spacing_bottom": 15
+          }
+        },
+        "description_P9ehdd": {
+          "type": "description",
+          "settings": {
+            "description": "<p>Discover a collection of timeless wardrobe essentials, seamlessly transitioning from work to weekend. Inspired by travel, our America-designed pieces prioritize sustainability with natural fibers and mindful practices. Explore a range of <span style=\"text-decoration:underline\"><strong>tops<\/strong><\/span>, <span style=\"text-decoration:underline\"><strong>bottoms<\/strong><\/span>, <span style=\"text-decoration:underline\"><strong>sweaters<\/strong><\/span>, and accessories in versatile styles, featuring high-quality materials like cotton, linen, tencel, and wool. <\/p><p>Each piece is crafted with meticulous attention to detail, ensuring a perfect blend of comfort and elegance. Our designs emphasize clean lines and sophisticated silhouettes, making them suitable for any occasion. Whether you’re dressing up for a night out or keeping it casual, our collection offers endless styling possibilities. Embrace the essence of effortless chic with our thoughtfully designed wardrobe staples, and experience the harmony of style, quality, and sustainability. Join us in redefining modern fashion with a conscience.<\/p>",
+            "font_size": 15,
+            "font_weight": "body_weight",
+            "spacing_bottom": 10
+          }
+        }
+      },
+      "block_order": [
+        "heading_j3PNaT",
+        "description_P9ehdd"
+      ],
+      "settings": {
+        "section_width": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "content_max_width": 77,
+        "enable_expand_content": true,
+        "expand_content_button": "See all Information",
+        "content_max_height": 130,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "icon_box_TRwJBD": {
+      "type": "icon-box",
+      "blocks": {
+        "icon_box_ACjiqA": {
+          "type": "icon_box",
+          "settings": {
+            "icon_svg": "free_shipping",
+            "custom_svg": "",
+            "heading": "Free Shipping",
+            "description": "<p>Enjoy free worldwide shipping and returns, with customs<br\/> and duties taxes included.<\/p>"
+          }
+        },
+        "icon_box_RLNr9a": {
+          "type": "icon_box",
+          "settings": {
+            "icon_svg": "check_badge",
+            "custom_svg": "",
+            "heading": "Free Returns",
+            "description": "<p>Free returns within 15 days, please make sure the items<br\/> are in undamaged condition.<\/p>"
+          }
+        },
+        "icon_box_tj4DJd": {
+          "type": "icon_box",
+          "settings": {
+            "icon_svg": "message_communications",
+            "custom_svg": "",
+            "heading": "Support Online",
+            "description": "<p>We support customers 24\/7, send questions we will<br\/> solve for you immediately.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon_box_ACjiqA",
+        "icon_box_RLNr9a",
+        "icon_box_tj4DJd"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "type": "default",
+        "column_gap": 30,
+        "icon_position": "top",
+        "icon_size": 32,
+        "spacing": 11,
+        "content_alignment": "center",
+        "heading_font_size": 16,
+        "heading_font_weight": "heading_weight",
+        "heading_uppercase": false,
+        "heading_spacing_bottom": 10,
+        "des_font_size": 15,
+        "des_font_weight": "body_weight",
+        "carousel_on_mobile": true,
+        "items_per_row_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 10,
+        "reset_spacing": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_8KKtNU",
+    "collection_list_VmEYkJ",
+    "brand_logo_paAFUe",
+    "multi_content_y6DJgy",
+    "rich_text_xcCfad",
+    "products_carousel_BrKFhr",
+    "multi_content_gK4MAT",
+    "rich_text_xkRb9a",
+    "rich_text_dNFPQj",
+    "multi_content_PzUKKr",
+    "divider_k3FrdB",
+    "rich_text_EcBgbR",
+    "icon_box_TRwJBD"
+  ]
+}
