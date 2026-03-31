@@ -102,6 +102,8 @@
                     {% endif %}
                     {% if section_st.icon_between_item == 'hight_light' %}
                       {% render 'icon-highlight' %}
+                    {% elsif section_st.icon_between_item == 'globe' %}
+                      {% render 'icon-globe' %}
                     {% elsif section_st.icon_between_item == 'dot' %}
                       {% render 'icon-dot' %}
                     {% elsif section_st.icon_between_item == 'star' %}
@@ -374,6 +376,10 @@
         {
           "value": "star",
           "label": "t:sections.announcement-bar.settings.marquee.icon_between.star"
+        },
+        {
+          "value": "globe",
+          "label": "Globe"
         }
       ],
       "default": "none",

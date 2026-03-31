@@ -1,48 +1,60 @@
 /*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement_bar_gjtgpB": {
+    "announcement_bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_DNWUDm": {
+        "announcement_1": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "countdown_deadline": ""
+            "text": "Free shipping orders $125+ (US Only + Non-Wholesale)"
+          }
+        },
+        "announcement_2": {
+          "type": "announcement",
+          "settings": {
+            "text": "Shop top sellers"
+          }
+        },
+        "announcement_3": {
+          "type": "announcement",
+          "settings": {
+            "text": "Visit us on Instagram"
           }
         }
       },
       "block_order": [
-        "announcement_DNWUDm"
+        "announcement_1",
+        "announcement_2",
+        "announcement_3"
       ],
-      "name": "t:sections.announcement-bar.name",
       "settings": {
-        "section_width": "stretch_width",
-        "color_scheme": "",
+        "section_width": "full_width",
+        "color_scheme": "scheme-4faf0e4d-27f4-4d02-bc51-617383bab1a9",
         "announcement_actions": "marquee",
         "show_close": false,
         "homepage_only": false,
         "show_mobile": true,
-        "show_separator_line": true,
-        "uppercase": false,
+        "show_separator_line": false,
+        "uppercase": true,
         "font_size": 12,
         "font_weight": "subheading_weight",
-        "speed": 15,
+        "speed": 12,
         "space_between": 50,
-        "icon_between_item": "none",
+        "icon_between_item": "globe",
         "change_every": 3,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "header": {
@@ -94,7 +106,8 @@
             "full_width": true,
             "promotion_position": "right",
             "promotion_image_width": 33,
-            "promotion_link_1": "shopify://collections/activewear",
+            "promotion_image_1": "shopify:\/\/shop_images\/fashion_1.jpg",
+            "promotion_link_1": "shopify:\/\/collections\/activewear",
             "promotion_link_newtab_1": true,
             "promotion_link_2": "",
             "promotion_link_newtab_2": true
@@ -109,13 +122,13 @@
       "settings": {
         "section_width": "stretch_width",
         "color_scheme": "",
-        "logo_position": "left",
-        "separator_line": "inner_page",
+        "logo_position": "center",
+        "separator_line": "none",
         "enable_login_popup": true,
         "sticky_header_type": "always",
         "sticky_header_mobile": true,
-        "transparent_header": false,
-        "transparent_mobile": false,
+        "transparent_header": true,
+        "transparent_mobile": true,
         "transparent_text_icon_color": "#ffffff",
         "mega_menu": "main-menu",
         "dropdowns_animation": "down-to-up",
@@ -144,18 +157,18 @@
         "menu_mobile_background": "#d0473e",
         "show_search": true,
         "show_account_icon": true,
-        "show_wishlist_icon": true,
+        "show_wishlist_icon": false,
         "show_shopping_cart": true,
-        "show_currency": false,
+        "show_currency": true,
         "show_language": false,
         "show_recently_viewed": false,
-        "padding_top": 10,
-        "padding_bottom": 10
+        "padding_top": 15,
+        "padding_bottom": 15
       }
     }
   },
   "order": [
-    "announcement_bar_gjtgpB",
+    "announcement_bar",
     "header"
   ]
 }
