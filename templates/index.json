@@ -17,19 +17,19 @@
           "settings": {
             "image": "shopify://shop_images/zc24.webp",
             "image_mobile": "shopify://shop_images/DSC00011_1.webp",
-            "overlay_opacity": 0,
+            "overlay_opacity": 20,
             "slider_effect": "effect_zoomout",
-            "subheading": "Season Collection",
-            "heading": "Super Comfort",
+            "subheading": "Retail & Wholesale.",
+            "heading": "ORGANIC LUXURY BLANKS.",
             "description": "",
-            "first_button_label": "Shop Collection",
+            "first_button_label": "Apply for wholesale",
             "first_button_link": "shopify://collections/best-seller",
-            "first_button_style": false,
+            "first_button_style": true,
             "second_button_label": "",
             "second_button_link": "",
             "second_button_style": false,
-            "content_alignment": "left",
-            "content_position": "bottom-left",
+            "content_alignment": "center",
+            "content_position": "middle-center",
             "content_width": "full_width",
             "content_max_width": 100,
             "content_padding_block": 60,
@@ -56,9 +56,9 @@
         "subheading_font_size": 15,
         "subheading_font_weight": "subheading_weight",
         "subheading_spacing_bottom": 0,
-        "heading_font_size": 70,
+        "heading_font_size": 80,
         "heading_font_weight": "heading_weight",
-        "heading_uppercase": false,
+        "heading_uppercase": true,
         "heading_spacing_bottom": 12,
         "des_font_size": 19,
         "des_font_weight": "heading_weight",
@@ -73,9 +73,72 @@
         "padding_bottom": 0,
         "reset_spacing": false
       }
+    },
+    "trust_bar": {
+      "type": "icon-box",
+      "blocks": {
+        "trust_1": {
+          "type": "icon_box",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "heading": "10k+ Satisfied Customers",
+            "description": ""
+          }
+        },
+        "trust_2": {
+          "type": "icon_box",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "heading": "7 Day Return Guarantee",
+            "description": ""
+          }
+        },
+        "trust_3": {
+          "type": "icon_box",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "heading": "100% Organic",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "trust_1",
+        "trust_2",
+        "trust_3"
+      ],
+      "custom_css": [
+        ".icon--box-heading {font-weight: 400; font-size: 14px; color: #999999; letter-spacing: 0.05em;}",
+        ".section {border-bottom: 1px solid #e0e0e0;}"
+      ],
+      "settings": {
+        "section_width": "fluid_container",
+        "color_scheme": "",
+        "type": "default",
+        "column_gap": 30,
+        "icon_position": "top",
+        "icon_size": 0,
+        "spacing": 0,
+        "content_alignment": "center",
+        "heading_font_size": 14,
+        "heading_font_weight": "body_weight",
+        "heading_uppercase": false,
+        "heading_spacing_bottom": 0,
+        "des_font_size": 15,
+        "des_font_weight": "body_weight",
+        "carousel_on_mobile": true,
+        "items_per_row_mobile": "1",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "reset_spacing": true
+      }
     }
   },
   "order": [
-    "slideshow_8KKtNU"
+    "slideshow_8KKtNU",
+    "trust_bar"
   ]
 }
