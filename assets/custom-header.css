@@ -23,24 +23,24 @@
   flex-shrink: 0;
 }
 
-/* Glassmorphism / Polygrassmorphism Header Effect */
+/* Glassmorphism Header - White Transparent */
 .section-header .header {
-  background: rgba(255, 255, 255, 0.08) !important;
+  background: rgba(255, 255, 255, 0.55) !important;
   backdrop-filter: blur(20px) saturate(180%);
   -webkit-backdrop-filter: blur(20px) saturate(180%);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   transition: background 0.3s ease, backdrop-filter 0.3s ease;
 }
 
-/* When header is sticky */
+/* Sticky header */
 .section-header.shopify-section-header-sticky .header {
-  background: rgba(20, 20, 40, 0.65) !important;
+  background: rgba(255, 255, 255, 0.7) !important;
   backdrop-filter: blur(24px) saturate(200%);
   -webkit-backdrop-filter: blur(24px) saturate(200%);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
 }
 
-/* Force white text/icons on glassmorphism header */
+/* Black text and icons */
 .section-header .header,
 .section-header .header .header-color,
 .section-header .header header-inner .button-localization,
@@ -48,37 +48,36 @@
 .section-header .header svg,
 .section-header .header .header__action svg,
 .section-header .header .header__logo a,
-.section-header .header .header__logo svg,
 .section-header .header .horizontal-list a,
 .section-header .header .minicart-number {
-  color: #ffffff !important;
+  color: #111111 !important;
 }
 
 .section-header .header .header__action .icon-cart-number {
-  background: #ffffff;
-  color: #1a1a2e !important;
+  background: #111111;
+  color: #ffffff !important;
 }
 
-/* Hamburger menu icon white */
+/* Hamburger menu icon black */
 .section-header .header .toggle-menu svg,
 .section-header .header .toggle-menu line,
 .section-header .header .toggle-menu path {
-  color: #ffffff !important;
-  stroke: #ffffff !important;
+  color: #111111 !important;
+  stroke: #111111 !important;
 }
 
 /* Country/currency selector text */
 .section-header .header .lang__currency-desktop,
 .section-header .header .lang__currency-desktop .button-localization,
 .section-header .header .lang__currency-desktop span {
-  color: #ffffff !important;
+  color: #111111 !important;
   font-weight: 500;
   letter-spacing: 0.05em;
 }
 
 /* WHOLESALE label styling */
 .wholesale-label {
-  color: #ffffff;
+  color: #111111;
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 0.15em;
@@ -98,25 +97,24 @@
   margin-inline-start: 8px;
 }
 
-/* Logo styling for center position */
+/* Logo - keep original colors (black) */
 .section-header .header .header__logo img,
 .section-header .header .header__logo svg {
-  filter: brightness(0) invert(1);
   max-height: 40px;
 }
 
 /* Mobile header adjustments */
 @media screen and (max-width: 1024.98px) {
   .section-header .header {
-    background: rgba(20, 20, 40, 0.55) !important;
+    background: rgba(255, 255, 255, 0.6) !important;
     backdrop-filter: blur(16px) saturate(180%);
     -webkit-backdrop-filter: blur(16px) saturate(180%);
   }
 }
 
-/* Sticky header on scroll - slightly more opaque */
+/* Sticky header on scroll */
 .section-header.shopify-section-header-sticky .header.is-scrolled {
-  background: rgba(15, 15, 35, 0.75) !important;
+  background: rgba(255, 255, 255, 0.8) !important;
   backdrop-filter: blur(28px) saturate(200%);
   -webkit-backdrop-filter: blur(28px) saturate(200%);
 }

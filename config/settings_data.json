@@ -36,7 +36,7 @@
     "product_image_ratio": "portrait",
     "show_action_on_mobile": true,
     "swatch_item_type": "variant_images",
-    "search_type": "default",
+    "search_type": "popup",
     "search_result": "products",
     "enable_search_suggestion": true,
     "popular_key_word": "t-shirt, dress, crop top",
