@@ -1,18 +1,19 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "purchase_code": "",
-    "favicon": "shopify:\/\/shop_images\/Favicon.png",
-    "logo": "shopify:\/\/shop_images\/logo.svg",
-    "desktop_logo_width": 82,
+    "favicon": "shopify://shop_images/Favicon.png",
+    "logo": "shopify://shop_images/Untitled_280_x_80_px_1.avif",
+    "desktop_logo_width": 126,
+    "mobile_logo_width": 150,
     "page_width": 1200,
     "fluid_container_width": 1410,
     "spacing_desktop": 90,
@@ -66,7 +67,7 @@
     "store_email": "info@fashionwomen.com",
     "store_page": "our-store",
     "heading_cookies": "",
-    "content_cookies": "<p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffics. By clicking \"<strong>Allow Cookies<\/strong>\" you consent to our use of cookie.<\/p>",
+    "content_cookies": "<p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffics. By clicking \"<strong>Allow Cookies</strong>\" you consent to our use of cookie.</p>",
     "label_allow": "Allow Cookies",
     "label_refuse": "",
     "page_terms_conditions": "term-and-conditions",
@@ -86,41 +87,34 @@
         "block_order": [
           "color_aQceXa"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "product-quickview": {
         "type": "product-quickview",
         "blocks": {
           "badges_NhM4GM": {
             "type": "badges",
-            "settings": {
-            }
+            "settings": {}
           },
           "title_txJBrx": {
             "type": "title",
-            "settings": {
-            }
+            "settings": {}
           },
           "rate_QwRHyp": {
             "type": "rate",
-            "settings": {
-            }
+            "settings": {}
           },
           "price_NNg9B8": {
             "type": "price",
-            "settings": {
-            }
+            "settings": {}
           },
           "description_pKXRJa": {
             "type": "description",
-            "settings": {
-            }
+            "settings": {}
           },
           "variant_picker_MQYkTJ": {
             "type": "variant_picker",
-            "settings": {
-            }
+            "settings": {}
           },
           "buy_buttons_pDYNX9": {
             "type": "buy_buttons",
@@ -171,23 +165,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "16555213172727936593": {
-        "type": "shopify:\/\/apps\/ns-discount-in-cart\/blocks\/discount_block\/0cbbbcdd-bf54-49df-885c-9ca3fd52a671",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
+    "content_for_index": [],
     "color_schemes": {
       "default": {
         "settings": {
@@ -300,7 +278,6 @@
     }
   },
   "presets": {
-    "Default": {
-    }
+    "Default": {}
   }
 }
